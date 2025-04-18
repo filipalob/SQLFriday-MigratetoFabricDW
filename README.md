@@ -10,7 +10,7 @@ Whether you're a data engineer, DBA, or architect looking to modernize your data
 - 🧩 Feature Mapping: SQL Server vs Fabric
 - 📚 Useful Links & References
 
-You can also rewatch our session at [https://www.youtube.com/live/p7lZwhbLmxo?si=Kdetq2SqOk0Xr1tV](https://www.youtube.com/live/p7lZwhbLmxo?si=Kdetq2SqOk0Xr1tV).
+You can also rewatch our session on [Youtube](https://www.youtube.com/live/p7lZwhbLmxo?si=Kdetq2SqOk0Xr1tV).
 
 ## 💬 Let's Connect
 If you have any questions or want to continue the conversation, feel free to open an issue or connect with me on [LinkedIn](https://www.linkedin.com/in/filipalobao).
