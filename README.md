@@ -1,6 +1,6 @@
 # From SQL Server to Microsoft Fabric: How-To and Strategies
 
-This repository contains the slide deck and supporting documentation from my session \*"From SQL Server to Microsoft Fabric: How-To and Strategies."\* on SQL Friday on April 18, 2025.
+This repository contains the slide deck and supporting documentation from my session "From SQL Server to Microsoft Fabric: How-To and Strategies." on SQL Friday on April 18, 2025.
 
 Whether you're a data engineer, DBA, or architect looking to modernize your data stack, this session outlines practical steps and strategic insights to help you plan and execute your migration from SQL Server to Microsoft Fabric.
 
